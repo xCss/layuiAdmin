@@ -2,7 +2,7 @@
 
 > 完全由 layui 自建的一套前端架构实现而成的通用型后台管理模板系统
 
-## [iframe版](https://www.layui.com/admin/pro/)
+## [iframe版](https://xcss.github.io/admin/pro/)
 
 ### `使用简单`
 > * 基于 iframe 标签页实现，简单实用
@@ -17,7 +17,7 @@
 * 专属的会员专区，与同道中人隔空交流
 * 不限制域名和应用的项目数量
 
-## [单页版](https://www.layui.com/admin/std/dist/views/)
+## [单页版](https://xcss.github.io/admin/std/dist/views/)
 ### `体验较好`
 > * 单页面应用方案，所有操作无需跳转
 > * 采用前后端分离开发模式，上手略难
